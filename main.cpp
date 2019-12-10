@@ -20,6 +20,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     cout<<"quelque chose"<<endl;
+    cout<<"autre chose"<<endl;
     return 0;
 }
 

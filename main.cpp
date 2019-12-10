@@ -21,7 +21,7 @@ using namespace std;
 int main(int argc, char** argv) {
     cout<<"quelque chose"<<endl;
     cout<<"autre chose"<<endl;
-    cout << "Bonjour angel Di maria"
+    cout << "Bonjour angel Di maria"<<endl;
     return 0;
 }
 

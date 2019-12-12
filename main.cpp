@@ -21,7 +21,7 @@ using namespace std;
 int main(int argc, char** argv) {
     cout<<"quelque chose"<<endl;
     cout<<"autre chose"<<endl;
-    cout<<"truckbiduletruckprobleme laniesse"<<endl;
+    cout<<"truckbiduletruckpro bleme laniesse"<<endl;
     
     return 0;
 }
